@@ -1,2 +1,2 @@
-Maintainer: Sakinder
+Free VHDL CODE Editor
 ===========
